@@ -68,7 +68,7 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8
 
 广东频道,#genre#
-广东卫视,http://www.namewee.xyz/gudou.php?id=1401_4500#https://tcdn.itouchtv.cn/live/gdws.m3u8?
+广东卫视,http://www.namewee.xyz/gudou.php?id=1401_4500#https://tcdn.itouchtv.cn/live/gdws.m3u8?#http://222.71.90.218:8888/newlive/live/hls/23/live.m3u8
 
 广东体育,http://www.namewee.xyz/gudou.php?id=1413_4500#
 
@@ -76,25 +76,15 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 
 广东民生,http://www.namewee.xyz/gudou.php?id=1455_4500#https://tcdn.itouchtv.cn/live/gdgg.m3u8?
 
-广东新闻,https://tcdn.itouchtv.cn/live/xwpd.m3u8?
-
-经济科教,https://tcdn.itouchtv.cn/live/jjkj.m3u8?
-
-现代教育,https://tcdn.itouchtv.cn/live/xdjy.m3u8?
-
-大湾区卫视,https://tcdn.itouchtv.cn/live/nfws.m3u8?
-
 广东岭南戏曲,http://www.namewee.xyz/gudou.php?id=1460#https://tcdn.itouchtv.cn/live/lnxq.m3u8?
 
-广东少儿,https://tcdn.itouchtv.cn/live/gdse.m3u8#https://selizhi.gdtv.cn/live/selive.gdtv.cn_gdse-1701425481407.ts?auth_key=1701427316-0-0-f9be0f7cc1d75a4abc2681e3d2300fe3
+深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8#http://222.71.90.218:8888/newlive/live/hls/24/live.m3u8
 
-嘉佳卡通,https://tcdn.itouchtv.cn/live/jjkt.m3u8?
+广州综合,http://www.namewee.xyz/gudou.php?id=1432_4500
 
-广东深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
+广州新闻,http://www.namewee.xyz/gudou.php?id=1433_4500#https://tencentplaygsm.gztv.com/live/zonghes.m3u8#https://tencentplaygsm.gztv.com/live/xinwen.m3u8#https://tencentplaygsm.gztv.com/live/zonghes.m3u8#https://tencentplaygsm.gztv.com/live/xinwen.m3u8
 
-广东广州综合,http://www.namewee.xyz/gudou.php?id=1432_4500
-
-广东广州新闻,http://www.namewee.xyz/gudou.php?id=1433_4500
+中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
 
 
