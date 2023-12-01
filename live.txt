@@ -68,7 +68,7 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8
 
 广东频道,#genre#
-广东卫视,http://www.namewee.xyz/gudou.php?id=1401_4500#https://tcdn.itouchtv.cn/live/gdws.m3u8?#http://222.71.90.218:8888/newlive/live/hls/23/live.m3u8
+广东卫视,http://222.175.159.226:808/hls/202352/index.m3u8#https://live.metshop.top/hbgd.php?id=gdwshd_3000#http://www.namewee.xyz/gudou.php?id=1401_4500#https://tcdn.itouchtv.cn/live/gdws.m3u8?#http://222.71.90.218:8888/newlive/live/hls/23/live.m3u8
 
 广东体育,http://www.namewee.xyz/gudou.php?id=1413_4500#
 
@@ -87,6 +87,8 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 
 深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8#http://222.71.90.218:8888/newlive/live/hls/24/live.m3u8
+
+深圳卫视,http://222.175.159.226:808/hls/202349/index.m3u8
 
 广州综合,http://www.namewee.xyz/gudou.php?id=1432_4500
 
