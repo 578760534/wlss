@@ -76,11 +76,15 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 
 广东民生,http://www.namewee.xyz/gudou.php?id=1455_4500#https://tcdn.itouchtv.cn/live/gdgg.m3u8?
 
+广东影视,http://218.17.216.102:9901/tsfile/live/1008_1.m3u8
+
 广东岭南戏曲,http://www.namewee.xyz/gudou.php?id=1460#https://tcdn.itouchtv.cn/live/lnxq.m3u8?
 
 大亚湾卫视,https://tcdn.itouchtv.cn/live/nfws.m3u8?t_token=3a2a7266cc03dbce45b0bf8f7f458f95-NVfG7KXWT01H%2B8LxguuVGRu%2FP%2Fz1vQMRO0IyG2tB3rmzBNnpH0Jvpc%2F%2B6YdrrXwDvjtfvHA7PSbdimyhcAFrMzpj5AWzDxo%2BJ%2BTMUlwOk8%2FX%2FNjveVx0WxRQMnq%2Fe4OvBdYLJPgse%2FTCnnZN%2FwfvEMinRQrkyejUCuKcoj5yx53IA2fvN0QlCShzVHGf45%2FOXs11xdXnkUxrMQxPU35RaJmvgG3qfznvP0aO%2FT4rwCusE2ePbWm%2FvaSCh%2F3f14Q%2F%2BCw78Ha%2FHLvsoQRpVUnzr475vJgfVvJSH74c43xK8IBW1WSK0G9zFsDOHBfBRTKgdCHtuA7osDwbUXfgZQpjK%2B9v%2BpDFry5gjLrNMzrrdKuQPqLGQmUv7VcBieoRaKjxZK%2Br50ZAVdaSdzo9np9HOA%3D%3D
 
-经济科教,https://tcdn.itouchtv.cn/live/jjkj.m3u8?t_token=98463a2110bdb2b402253c40e6619303-YbOfA8L4MfNUSjNnMRp3ND5z8AtRHVM5jppqgNAGp9A2lnD19TMtcPwAJj0rGMCTcMm%2BSIDKGf02UI5qCgr11uI58KHufEbMI1zwfSUxN2y8b13Sk6WJMd51Mb0a6vknXdEZXr3zeKzgFg5JcQbBgnEWMXzwuVL9TFlRV8KZzWUlvs965ljNmxYrs2nWOeDPMCZR%2FyTsmUpqWQGAN7OmyIDoBkPhugupEcqbQH3gB5nljE8UU4cVGs7iGfpqWmYb9Qh%2FToMpqFTQbrVajONoqvpCQBIHVgJyclkFhMWOaReb%2FrYpmcmfJ8M6Sr%2F1f19PXIsdoZEZKud8dA8gFnMDG35udIJoo0IZuB3U9cFCLIkvKCKFhM1kFIh6EbkgnOs%2F38mDPwR%2Bt9PyyAWZ5Xgp7w%3D%3D
+广东经济科教,https://tcdn.itouchtv.cn/live/jjkj.m3u8?t_token=98463a2110bdb2b402253c40e6619303-YbOfA8L4MfNUSjNnMRp3ND5z8AtRHVM5jppqgNAGp9A2lnD19TMtcPwAJj0rGMCTcMm%2BSIDKGf02UI5qCgr11uI58KHufEbMI1zwfSUxN2y8b13Sk6WJMd51Mb0a6vknXdEZXr3zeKzgFg5JcQbBgnEWMXzwuVL9TFlRV8KZzWUlvs965ljNmxYrs2nWOeDPMCZR%2FyTsmUpqWQGAN7OmyIDoBkPhugupEcqbQH3gB5nljE8UU4cVGs7iGfpqWmYb9Qh%2FToMpqFTQbrVajONoqvpCQBIHVgJyclkFhMWOaReb%2FrYpmcmfJ8M6Sr%2F1f19PXIsdoZEZKud8dA8gFnMDG35udIJoo0IZuB3U9cFCLIkvKCKFhM1kFIh6EbkgnOs%2F38mDPwR%2Bt9PyyAWZ5Xgp7w%3D%3D
+
+广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 
 深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8#http://222.71.90.218:8888/newlive/live/hls/24/live.m3u8
 
