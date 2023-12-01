@@ -68,33 +68,33 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8
 
 广东频道,#genre#
-广东珠江,https://www.gdtv.cn/tvChannelDetail/44
+广东卫视,http://www.namewee.xyz/gudou.php?id=1401_4500#https://tcdn.itouchtv.cn/live/gdws.m3u8?
 
-广东新闻,https://www.gdtv.cn/tvChannelDetail/45
+广东体育,http://www.namewee.xyz/gudou.php?id=1413_4500#
 
-广东民生,https://www.gdtv.cn/tvChannelDetail/48
+广东珠江,http://www.namewee.xyz/gudou.php?id=1437_4500#https://tcdn.itouchtv.cn/live/gdzj.m3u8?
 
-广东经济科教,https://www.gdtv.cn/tvChannelDetail/49
+广东民生,http://www.namewee.xyz/gudou.php?id=1455_4500#https://tcdn.itouchtv.cn/live/gdgg.m3u8?
 
-广东影视,https://www.gdtv.cn/tvChannelDetail/53
+广东新闻,https://tcdn.itouchtv.cn/live/xwpd.m3u8?
 
-广东少儿,https://www.gdtv.cn/tvChannelDetail/54
+经济科教,https://tcdn.itouchtv.cn/live/jjkj.m3u8?
 
-广东综艺,https://www.gdtv.cn/tvChannelDetail/16
+现代教育,https://tcdn.itouchtv.cn/live/xdjy.m3u8?
 
-岭南戏曲,https://www.gdtv.cn/tvChannelDetail/15
+大湾区卫视,https://tcdn.itouchtv.cn/live/nfws.m3u8?
 
-广东现代教育,https://www.gdtv.cn/tvChannelDetail/13
+广东岭南戏曲,http://www.namewee.xyz/gudou.php?id=1460#https://tcdn.itouchtv.cn/live/lnxq.m3u8?
 
-广东房产,https://www.gdtv.cn/tvChannelDetail/67
+广东少儿,https://tcdn.itouchtv.cn/live/gdse.m3u8#https://selizhi.gdtv.cn/live/selive.gdtv.cn_gdse-1701425481407.ts?auth_key=1701427316-0-0-f9be0f7cc1d75a4abc2681e3d2300fe3
 
-广东高尔夫,https://www.gdtv.cn/tvChannelDetail/68
+嘉佳卡通,https://tcdn.itouchtv.cn/live/jjkt.m3u8?
 
-广东移动,https://www.gdtv.cn/tvChannelDetail/74
+广东深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
 
-广东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8#http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225966/index.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw2172536660_1354602564/ott.mobaibox.com/PLTV/3/224/3221227399/index.m3u8?icpid=3&RTS=1674386582&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw1545870828_672332266/ott.mobaibox.com/PLTV/3/224/3221227445/index.m3u8?icpid=3&RTS=1674385956&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb0d]:80/wh7f454c46tw201073874_846642633/ott.mobaibox.com/PLTV/3/224/3221227673/index.m3u8?icpid=3&RTS=1674380316&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw1545504334_-1449102672/ott.mobaibox.com/PLTV/3/224/3221227691/index.m3u8?icpid=3&RTS=1674385955&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw2917484419_-1632335828/ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8?icpid=3&RTS=1668597711&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw201843385_424516234/ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8?icpid=3&RTS=1674380317&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw200922983_-1894712676/ott.mobaibox.com/PLTV/3/224/3221227591/index.m3u8?icpid=3&RTS=1674380316&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1749616194_1855037741/ott.mobaibox.com/PLTV/3/224/3221227249/index.m3u8?icpid=3&RTS=1674386160&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/wh7f454c46tw1930705409_-1175138860/ott.mobaibox.com/PLTV/3/224/3221228230/index.m3u8?icpid=3&RTS=1674386341&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/wh7f454c46tw201699374_-1286689762/ott.mobaibox.com/PLTV/3/224/3221228312/index.m3u8?icpid=3&RTS=1674380317&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2472396488_-1812520779/ott.mobaibox.com/PLTV/3/224/3221228490/index.m3u8?icpid=3&RTS=1674459897&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw2335730844_336951628/ott.mobaibox.com/PLTV/3/224/3221228566/index.m3u8?icpid=3&RTS=1674459760&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001031/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+广东广州综合,http://www.namewee.xyz/gudou.php?id=1432_4500
 
-广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225803/1.m3u8
+广东广州新闻,http://www.namewee.xyz/gudou.php?id=1433_4500
 
-深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226199/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225741/index.m3u8#http://112.25.48.68/live/program/live/szwshd/4000000/mnf.m3u8#http://117.169.120.140:8080/live/hdshenzhenstv/.m3u8#http://183.207.249.37/PLTV/4/224/3221227307/index.m3u8#http://223.110.243.171/PLTV/3/224/3221227217/index.m3u8#http://223.110.245.139/PLTV/4/224/3221227307/index.m3u8#http://183.207.248.71/cntv/live1/HD-2500k-1080P-shenzhenstv/HD-2500k-1080P-shenzhenstv
+
 
