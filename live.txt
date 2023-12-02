@@ -68,44 +68,90 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 
 广东频道,#genre#
-广东卫视,http://hms2924nc1972666635.live.aikan.miguvideo.com/wh7f454c46tw1593177896_517539519/migu/kailu/gdwshd265/54/20200407/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073743&ContentId=263541274&timezone=UTC&mtv_session=4d4e96518e2e6558846eec1f7e8cb4c1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=cbba4b3db62cb6fb348d495ad003a2c8#http://175.43.106.172:4022/udp/239.61.4.33:1025#http://222.175.159.226:808/hls/202352/index.m3u8#https://live.metshop.top/hbgd.php?id=gdwshd_3000#http://www.namewee.xyz/gudou.php?id=1401_4500#http://222.71.90.218:8888/newlive/live/hls/23/live.m3u8
+惠州一套,http://49.235.110.121:9090/daili/gudo.php?id=#http://49.235.110.121:9090/daili/gudo.php?id=hz1hd
 
-广东新闻,https://tcdn.itouchtv.cn/live/xwpd.m3u8?t_token=7e89c25cee6bf633b66e3cf7d73b64ae-bFDZLmOSGyP9QX4Xpi8v1wEFwWwiAE9cMNXbVD%2FMDypeVlEwlS1LPqNLTuipkbdiPRgb1FyBNtGunSOMz32Tf9l6O3AEKsnfscurU4Jkt1uSfEVWhQkmY6cZ5BWTkLVsVzBmlwCWTnPqpAboMYrHfHiTZqgg%2F6x0XAuuM%2FgOjV0qpbHLvIY6Rq0Y5KiAK6uTw7SPAE0RKVNIQ0dSbBYyxI2k53sMmyTHokD6IySg9O22J%2Bfv3tXws2Aq0u1IyiECJQ7J2Ph5xASljYYcTap%2BgZlZsSgJ3DNP8pIZ5KiPdC7LHGOZQXkz1u8kyH45B40GHLeIm%2BgRMUzSA08DC7V%2BtswvWl4MODZztvNHr4zo4FIxYhpyAHtmE8G08x7l%2Bnqm
+惠州二套,http://49.235.110.121:9090/daili/gudo.php?id=hz2#http://49.235.110.121:9090/daili/gudo.php?id=hz2hd
 
-广东体育,http://www.namewee.xyz/gudou.php?id=1413_4500#
+广东卫视,http://hms2924nc1972666635.live.aikan.miguvideo.com/wh7f454c46tw1593177896_517539519/migu/kailu/gdwshd265/54/20200407/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073743&ContentId=263541274&timezone=UTC&mtv_session=4d4e96518e2e6558846eec1f7e8cb4c1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=cbba4b3db62cb6fb348d495ad003a2c8#http://8.217.90.28:9999/触电.php?id=gdws#http://175.43.106.172:4022/udp/239.61.4.33:1025#http://222.175.159.226:808/hls/202352/index.m3u8#https://live.metshop.top/hbgd.php?id=gdwshd_3000#http://www.namewee.xyz/gudou.php?id=1401_4500#http://222.71.90.218:8888/newlive/live/hls/23/live.m3u8
 
-广东珠江,http://www.namewee.xyz/gudou.php?id=1437_4500
+广东新闻,http://49.235.110.121:9090/daili/gudo.php?id=gdxw#http://8.217.90.28:9999/触电.php?id=gdxw
 
-广东民生,http://www.namewee.xyz/gudou.php?id=1455_4500
+广东综艺4K,http://49.235.110.121:9090/daili/gudo.php?id=gdzy4k
 
-广东影视,http://218.17.216.102:9901/tsfile/live/1008_1.m3u8
+广东体育,http://49.235.110.121:9090/daili/gudo.php?id=gdty#http://49.235.110.121:9090/daili/gudo.php?id=gdtyhd#http://www.namewee.xyz/gudou.php?id=1413_4500#http://8.217.90.28:9999/触电.php?id=gdty
 
-嘉佳卡通,http://223.87.160.11:55555/udp/239.11.0.203:5140
+广东珠江,http://49.235.110.121:9090/daili/gudo.php?id=gdzj#http://8.217.90.28:9999/触电.php?id=gdzj#http://www.namewee.xyz/gudou.php?id=1437_4500
+
+广东民生,http://8.217.90.28:9999/触电.php?id=gdms#http://www.namewee.xyz/gudou.php?id=1455_4500
+
+广东4K超高清,http://8.217.90.28:9999/触电.php?id=gdzy
+
+广东移动,http://8.217.90.28:9999/触电.php?id=gdyd
+
+广东少儿,http://49.235.110.121:9090/daili/gudo.php?id=gdse#http://8.217.90.28:9999/触电.php?id=gdse
+
+岭南戏曲,http://49.235.110.121:9090/daili/gudo.php?id=lnxq
+
+广东导视,http://49.235.110.121:9090/daili/gudo.php?id=gdds
+
+广东影视,http://49.235.110.121:9090/daili/gudo.php?id=gdys#http://8.217.90.28:9999/触电.php?id=gdys#http://218.17.216.102:9901/tsfile/live/1008_1.m3u8
+
+嘉佳卡通,http://223.87.160.11:55555/udp/239.11.0.203:5140#http://8.217.90.28:9999/触电.php?id=jjkt#http://49.235.110.121:9090/daili/gudo.php?id=jjkt
 
 金鹰卡通,http://223.87.160.11:55555/udp/239.11.0.127:5140
 
 酷乐卡通,http://223.87.160.11:55555/udp/239.10.0.214:5140
 
-大亚湾卫视,https://tcdn.itouchtv.cn/live/nfws.m3u8?t_token=3a2a7266cc03dbce45b0bf8f7f458f95-NVfG7KXWT01H%2B8LxguuVGRu%2FP%2Fz1vQMRO0IyG2tB3rmzBNnpH0Jvpc%2F%2B6YdrrXwDvjtfvHA7PSbdimyhcAFrMzpj5AWzDxo%2BJ%2BTMUlwOk8%2FX%2FNjveVx0WxRQMnq%2Fe4OvBdYLJPgse%2FTCnnZN%2FwfvEMinRQrkyejUCuKcoj5yx53IA2fvN0QlCShzVHGf45%2FOXs11xdXnkUxrMQxPU35RaJmvgG3qfznvP0aO%2FT4rwCusE2ePbWm%2FvaSCh%2F3f14Q%2F%2BCw78Ha%2FHLvsoQRpVUnzr475vJgfVvJSH74c43xK8IBW1WSK0G9zFsDOHBfBRTKgdCHtuA7osDwbUXfgZQpjK%2B9v%2BpDFry5gjLrNMzrrdKuQPqLGQmUv7VcBieoRaKjxZK%2Br50ZAVdaSdzo9np9HOA%3D%3D
+大亚湾卫视,http://49.235.110.121:9090/daili/gudo.php?id=dwqws#http://8.217.90.28:9999/触电.php?id=nfws#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8#http://8.217.90.28:9999/触电.php?id=nfws
 
-广东经济科教,https://tcdn.itouchtv.cn/live/jjkj.m3u8?t_token=98463a2110bdb2b402253c40e6619303-YbOfA8L4MfNUSjNnMRp3ND5z8AtRHVM5jppqgNAGp9A2lnD19TMtcPwAJj0rGMCTcMm%2BSIDKGf02UI5qCgr11uI58KHufEbMI1zwfSUxN2y8b13Sk6WJMd51Mb0a6vknXdEZXr3zeKzgFg5JcQbBgnEWMXzwuVL9TFlRV8KZzWUlvs965ljNmxYrs2nWOeDPMCZR%2FyTsmUpqWQGAN7OmyIDoBkPhugupEcqbQH3gB5nljE8UU4cVGs7iGfpqWmYb9Qh%2FToMpqFTQbrVajONoqvpCQBIHVgJyclkFhMWOaReb%2FrYpmcmfJ8M6Sr%2F1f19PXIsdoZEZKud8dA8gFnMDG35udIJoo0IZuB3U9cFCLIkvKCKFhM1kFIh6EbkgnOs%2F38mDPwR%2Bt9PyyAWZ5Xgp7w%3D%3D
+广东经济科教,http://49.235.110.121:9090/daili/gudo.php?id=gdjjkj#http://8.217.90.28:9999/触电.php?id=gdjjkj#http://49.235.110.121:9090/daili/gudo.php?id=gdjjkjhd
 
-广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
+广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8#https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd#https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
 
-深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8#http://222.71.90.218:8888/newlive/live/hls/24/live.m3u8
+深圳移动,http://49.235.110.121:9090/daili/yisz.php?id=szyd
+
+深圳都市,http://49.235.110.121:9090/daili/yisz.php?id=szds#http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8#http://222.71.90.218:8888/newlive/live/hls/24/live.m3u8
+
+深圳电视剧,http://218.17.216.102:9901/tsfile/live/1057_1.m3u8#http://49.235.110.121:9090/daili/yisz.php?id=szws#http://49.235.110.121:9090/daili/yisz.php?id=szdsj
+
+深圳娱乐,http://49.235.110.121:9090/daili/yisz.php?id=szyl
+
+深圳公共,http://49.235.110.121:9090/daili/yisz.php?id=szgg
+
+深圳国际,http://49.235.110.121:9090/daili/yisz.php?id=szgj
 
 深圳卫视,http://222.175.159.226:808/hls/202349/index.m3u8
 
-广州综合,http://www.namewee.xyz/gudou.php?id=1432_4500
+深圳东部,https://lglivepull.sznews.com/live/2646.m3u8?
 
-广州新闻,http://www.namewee.xyz/gudou.php?id=1433_4500#https://tencentplaygsm.gztv.com/live/zonghes.m3u8#https://tencentplaygsm.gztv.com/live/xinwen.m3u8#https://tencentplaygsm.gztv.com/live/zonghes.m3u8#https://tencentplaygsm.gztv.com/live/xinwen.m3u8
+深圳少儿,http://49.235.110.121:9090/daili/yisz.php?id=szse
+
+深圳财经生活,http://49.235.110.121:9090/daili/yisz.php?id=szcjsh
+
+深圳体育健康,http://49.235.110.121:9090/daili/yisz.php?id=sztyjk
+
+广州综合,http://49.235.110.121:9090/daili/gudo.php?id=gzzh#http://www.namewee.xyz/gudou.php?id=1432_4500
+
+广州新闻,http://49.235.110.121:9090/daili/gudo.php?id=gzxw#http://www.namewee.xyz/gudou.php?id=1433_4500#https://tencentplaygsm.gztv.com/live/zonghes.m3u8#https://tencentplaygsm.gztv.com/live/xinwen.m3u8#https://tencentplaygsm.gztv.com/live/zonghes.m3u8#https://tencentplaygsm.gztv.com/live/xinwen.m3u8
+
+广州法治,http://49.235.110.121:9090/daili/gudo.php?id=gzfz
+
+广州竞赛,http://49.235.110.121:9090/daili/gudo.php?id=gzjs
+
+广州影视,http://49.235.110.121:9090/daili/gudo.php?id=gzys
+
+韶关公共,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8?zguangd
+
+韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8?zguangd
 
 港澳频道,#genre#
 无线新闻,http://r.jdshipin.com/Nr5jq#http://r.jdshipin.com/CkuBd#,http://live.cooltv.top/tv/tvb.php?id=0&hq#http://live.cooltv.top/tv/tvb.php?id=0
 
-翡翠台,http://36.36.200.212:9901/tsfile/live/1008_1.m3u8?key=txiptv&url=tvzb.com#http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182#http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
+TVB翡翠台,http://36.36.200.212:9901/tsfile/live/1008_1.m3u8?key=txiptv&url=tvzb.com#http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182#http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts#http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts#http://120.236.57.77:9901/tsfile/live/1076_1.m3u8#http://49.235.110.121:9090/daili/gudo.php?id=fcthd
 
-明珠台,http://36.36.200.212:9901/tsfile/live/1009_1.m3u8?key=txiptv&url=tvzb.com#http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
+TVB經典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
+
+明珠台,http://36.36.200.212:9901/tsfile/live/1009_1.m3u8?key=txiptv&url=tvzb.com#http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts#http://49.235.110.121:9090/daili/gudo.php?id=fcthd
 
 星卫电影,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?ct=17874&tid=ma80888ed462f18082236&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
 
@@ -123,7 +169,9 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4005/chunklist1.
+
+星空卫视,http://49.235.110.121:9090/daili/翡翠.php?id=5#http://49.235.110.121:9090/daili/翡翠.php?id=30#http://49.235.110.121:9090/daili/gudo.php?id=xkws
 
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
@@ -131,13 +179,14 @@ TVB财经体育,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957
 
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8#https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 
-澳卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
-
 澳门赛马,https://live.mastvnet.com/lsdream/zT65oep/1500/live.m3u8
 
-澳视澳门,http://r.jdshipin.com/n2YZI
+澳视澳门,http://r.jdshipin.com/n2YZI#http://49.235.110.121:9090/daili/mz.php?id=14#http://49.235.110.121:9090/daili/gudo.php?id=asam
 
 澳门莲花,http://live.cooltv.top/tv/lotus.php#http://www.238311.cn:555/lotustv.php#https://p.ggiptv.com/v/macaulotustv.php#http://anren.live/HK/BiIOU11uLA.m3u8#http://anren.live/HK/BiIOU11uLA.m3u8?zgangd
 
-澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8#http://49.235.110.121:9090/daili/翡翠.php?id=6#http://49.235.110.121:9090/daili/gudo.php?id=ayws
 
+中国电影,http://49.235.110.121:9090/daili/翡翠.php?id=31
+
+天映频道,http://49.235.110.121:9090/daili/翡翠.php?id=32
