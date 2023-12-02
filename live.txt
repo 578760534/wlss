@@ -103,17 +103,36 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 港澳频道,#genre#
 无线新闻,http://r.jdshipin.com/Nr5jq#http://r.jdshipin.com/CkuBd#,http://live.cooltv.top/tv/tvb.php?id=0&hq#http://live.cooltv.top/tv/tvb.php?id=0
 
+翡翠台,http://r.jdshipin.com/qrfbg
+
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv?$官源 576P
+
+香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8#https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+
+无线财经,http://r.jdshipin.com/jUx8K
+
+凤凰中文,http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8#http://lhome.shuaigebo.top:8686/udp/239.93.34.9:2192#http://113.117.74.17:8081/hls/37/index.m3u8
+
+凤凰资讯,http://111.20.40.166:80/PLTV/88888893/224/3221226546/index.m3u8#http://lhome.shuaigebo.top:8686/udp/239.93.34.4:2191#http://113.117.74.17:8081/hls/36/index.m3u8
+
+凤凰香港,http://113.117.74.17:8081/hls/38/index.m3u8
+
+TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+
+TVB财经体育,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
+
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8#https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+
+澳卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
+
+澳门赛马,https://live.mastvnet.com/lsdream/zT65oep/1500/live.m3u8
+
 澳视澳门,http://r.jdshipin.com/n2YZI
 
 澳门莲花,http://live.cooltv.top/tv/lotus.php#http://www.238311.cn:555/lotustv.php#https://p.ggiptv.com/v/macaulotustv.php#http://anren.live/HK/BiIOU11uLA.m3u8#http://anren.live/HK/BiIOU11uLA.m3u8?zgangd
 
-翡翠台,http://r.jdshipin.com/qrfbg
-
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-
-香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8#https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
-
-无线财经,http://r.jdshipin.com/jUx8K
-
