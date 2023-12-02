@@ -37,7 +37,29 @@ CCTV-16 奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/8888889
 
 CCTV-17 农业农村,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8#http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8#http://117.148.179.167/PLTV/88888888/224/3221231772/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226198/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.http://183.196.25.171:808/hls/93/index.m3u8#https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
 
-CGTN英语,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
+CCTV-CGTN英语,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
+
+CCTV-兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8
+
+CCTV-怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/1.m3u8
+
+CCTV-世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8
+
+CCTV-文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8
+
+CCTV-央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8
+
+CCTV-央视高网,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8
+
+CCTV-风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8
+
+CCTV-风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8
+
+CCTV-第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8
+
+CCTV-女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8
+
+CCTV-风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8
 
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 
@@ -45,40 +67,18 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.
 
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 
-兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8
-
-怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/1.m3u8
-
-世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8
-
-文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8
-
-央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8
-
-央视高网,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8
-
-风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8
-
-风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8
-
-第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8
-
-女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8
-
-风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8
-
 广东频道,#genre#
-广东卫视,http://222.175.159.226:808/hls/202352/index.m3u8#https://live.metshop.top/hbgd.php?id=gdwshd_3000#http://www.namewee.xyz/gudou.php?id=1401_4500#https://tcdn.itouchtv.cn/live/gdws.m3u8?#http://222.71.90.218:8888/newlive/live/hls/23/live.m3u8
+广东卫视,http://222.175.159.226:808/hls/202352/index.m3u8#https://live.metshop.top/hbgd.php?id=gdwshd_3000#http://www.namewee.xyz/gudou.php?id=1401_4500#http://222.71.90.218:8888/newlive/live/hls/23/live.m3u8
 
 广东体育,http://www.namewee.xyz/gudou.php?id=1413_4500#
 
-广东珠江,http://www.namewee.xyz/gudou.php?id=1437_4500#https://tcdn.itouchtv.cn/live/gdzj.m3u8?
+广东珠江,http://www.namewee.xyz/gudou.php?id=1437_4500
 
-广东民生,http://www.namewee.xyz/gudou.php?id=1455_4500#https://tcdn.itouchtv.cn/live/gdgg.m3u8?
+广东民生,http://www.namewee.xyz/gudou.php?id=1455_4500
 
 广东影视,http://218.17.216.102:9901/tsfile/live/1008_1.m3u8
 
-广东岭南戏曲,http://www.namewee.xyz/gudou.php?id=1460#https://tcdn.itouchtv.cn/live/lnxq.m3u8?
+广东岭南戏曲,http://www.namewee.xyz/gudou.php?id=1460
 
 大亚湾卫视,https://tcdn.itouchtv.cn/live/nfws.m3u8?t_token=3a2a7266cc03dbce45b0bf8f7f458f95-NVfG7KXWT01H%2B8LxguuVGRu%2FP%2Fz1vQMRO0IyG2tB3rmzBNnpH0Jvpc%2F%2B6YdrrXwDvjtfvHA7PSbdimyhcAFrMzpj5AWzDxo%2BJ%2BTMUlwOk8%2FX%2FNjveVx0WxRQMnq%2Fe4OvBdYLJPgse%2FTCnnZN%2FwfvEMinRQrkyejUCuKcoj5yx53IA2fvN0QlCShzVHGf45%2FOXs11xdXnkUxrMQxPU35RaJmvgG3qfznvP0aO%2FT4rwCusE2ePbWm%2FvaSCh%2F3f14Q%2F%2BCw78Ha%2FHLvsoQRpVUnzr475vJgfVvJSH74c43xK8IBW1WSK0G9zFsDOHBfBRTKgdCHtuA7osDwbUXfgZQpjK%2B9v%2BpDFry5gjLrNMzrrdKuQPqLGQmUv7VcBieoRaKjxZK%2Br50ZAVdaSdzo9np9HOA%3D%3D
 
