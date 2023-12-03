@@ -145,15 +145,15 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8?zguangd
 
 港澳频道,#genre#
-无线新闻,http://r.jdshipin.com/Nr5jq#http://r.jdshipin.com/CkuBd#,http://live.cooltv.top/tv/tvb.php?id=0&hq#http://live.cooltv.top/tv/tvb.php?id=0
+无线新闻,https://tvp22.sky4k.top/index1.php#http://r.jdshipin.com/CkuBd#http://r.jdshipin.com/Nr5jq#http://r.jdshipin.com/CkuBd#,http://live.cooltv.top/tv/tvb.php?id=0&hq#http://live.cooltv.top/tv/tvb.php?id=0
 
-TVB翡翠台,http://36.36.200.212:9901/tsfile/live/1008_1.m3u8?key=txiptv&url=tvzb.com#http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182#http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts#http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts#http://120.236.57.77:9901/tsfile/live/1076_1.m3u8#http://49.235.110.121:9090/daili/gudo.php?id=fcthd
+TVB翡翠台,http://36.36.200.212:9901/tsfile/live/1008_1.m3u8?key=txiptv&url=tvzb.com#http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182#http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts#http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts#http://120.236.57.77:9901/tsfile/live/1076_1.m3u8#http://49.235.110.121:9090/daili/gudo.php?id=#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts#http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8?zgangd
 
-TVB經典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts#http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032#http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
+TVB千禧经典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
 
-明珠台,http://36.36.200.212:9901/tsfile/live/1009_1.m3u8?key=txiptv&url=tvzb.com#http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts#http://49.235.110.121:9090/daili/gudo.php?id=fcthd
+明珠台,http://36.36.200.212:9901/tsfile/live/1009_1.m3u8?key=txiptv&url=tvzb.com#http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts#http://49.235.110.121:9090/daili/gudo.php?id=fcthd#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts#https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 
-星卫电影,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?ct=17874&tid=ma80888ed462f18082236&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+星卫电影,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?ct=17874&tid=ma80888ed462f18082236&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb#http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?ct=17874&tid=ma80888ed462f18082236&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv?$官源 576P
 
@@ -186,7 +186,3 @@ TVB财经体育,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957
 澳门莲花,http://live.cooltv.top/tv/lotus.php#http://www.238311.cn:555/lotustv.php#https://p.ggiptv.com/v/macaulotustv.php#http://anren.live/HK/BiIOU11uLA.m3u8#http://anren.live/HK/BiIOU11uLA.m3u8?zgangd
 
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8#http://49.235.110.121:9090/daili/翡翠.php?id=6#http://49.235.110.121:9090/daili/gudo.php?id=ayws
-
-中国电影,http://49.235.110.121:9090/daili/翡翠.php?id=31
-
-天映频道,http://49.235.110.121:9090/daili/翡翠.php?id=32
