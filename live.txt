@@ -147,6 +147,8 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 港澳频道,#genre#
 无线新闻,https://tvp22.sky4k.top/index1.php#http://r.jdshipin.com/CkuBd#http://r.jdshipin.com/Nr5jq#http://r.jdshipin.com/CkuBd#,http://live.cooltv.top/tv/tvb.php?id=0&hq#http://live.cooltv.top/tv/tvb.php?id=0
 
+有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8#http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8#http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u#http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8#http://61.10.2.134:80/live_freedirect/freehd209_h.live/chunklist.m3u8#http://61.10.2.141:80/live_freedirect/freehd209_h.live/chunklist.m3u8
+
 TVB翡翠台,http://36.36.200.212:9901/tsfile/live/1008_1.m3u8?key=txiptv&url=tvzb.com#http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182#http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts#http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts#http://120.236.57.77:9901/tsfile/live/1076_1.m3u8#http://49.235.110.121:9090/daili/gudo.php?id=#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts#http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8?zgangd
 
 TVB千禧经典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
@@ -159,7 +161,9 @@ TVB千禧经典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&strea
 
 香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8#https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 
-无线财经,http://r.jdshipin.com/jUx8K
+无线财经资讯台,http://r.jdshipin.com/jUx8K
+
+有线财经资讯台,http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8
 
 凤凰中文,http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8#http://lhome.shuaigebo.top:8686/udp/239.93.34.9:2192#http://113.117.74.17:8081/hls/37/index.m3u8
 
@@ -169,9 +173,9 @@ TVB千禧经典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&strea
 
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4005/chunklist1.
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 
-星空卫视,http://49.235.110.121:9090/daili/翡翠.php?id=5#http://49.235.110.121:9090/daili/翡翠.php?id=30#http://49.235.110.121:9090/daili/gudo.php?id=xkws
+星空卫视,http://49.235.110.121:9090/daili/翡翠.php?id=5#http://49.235.110.121:9090/daili/翡翠.php?id=30#http://49.235.110.121:9090/daili/gudo.php?id=xkws#http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
 
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
